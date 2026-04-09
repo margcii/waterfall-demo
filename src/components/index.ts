@@ -1,0 +1,10 @@
+export { default as Layout } from './Layout';
+export { default as Mcanvas } from './Mcanvas';
+export { default as Scanvas } from './Scanvas';
+export { default as MainContent } from './MainContent';
+export { default as RightSidebar } from './RightSidebar';
+export { default as QuestionSpace } from './QuestionSpace';
+export { default as DialogArea } from './DialogArea';
+export { default as TeachingContent } from './TeachingContent';
+export { default as StepNavigator } from './StepNavigator';
+export { default as Sidebar } from './Sidebar';
